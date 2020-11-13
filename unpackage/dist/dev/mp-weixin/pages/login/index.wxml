@@ -1,0 +1,1 @@
+<view class="data-v-4586967a"><button type="primary" plain="{{true}}" open-type="getUserInfo" data-event-opts="{{[['tap',[['wxGetUserInfo',['$event']]]]]}}" bindtap="__e" class="data-v-4586967a">登录</button></view>
